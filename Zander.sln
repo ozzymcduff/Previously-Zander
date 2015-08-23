@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zander", "lib\Zander.csproj", "{F3E878B2-EFE6-4DA2-BC9E-D0F5533285BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "tests\Tests.csproj", "{0F761A66-7ED2-4592-8367-2FE176EBF786}"
+EndProject
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "SomeFSharpLibrary", "SomeFSharpLibrary\SomeFSharpLibrary.fsproj", "{AAC3F085-6E5E-4460-8E76-CDC4AC010170}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F761A66-7ED2-4592-8367-2FE176EBF786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F761A66-7ED2-4592-8367-2FE176EBF786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F761A66-7ED2-4592-8367-2FE176EBF786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F761A66-7ED2-4592-8367-2FE176EBF786}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAC3F085-6E5E-4460-8E76-CDC4AC010170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAC3F085-6E5E-4460-8E76-CDC4AC010170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAC3F085-6E5E-4460-8E76-CDC4AC010170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAC3F085-6E5E-4460-8E76-CDC4AC010170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3E878B2-EFE6-4DA2-BC9E-D0F5533285BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3E878B2-EFE6-4DA2-BC9E-D0F5533285BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3E878B2-EFE6-4DA2-BC9E-D0F5533285BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3E878B2-EFE6-4DA2-BC9E-D0F5533285BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
