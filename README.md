@@ -1,2 +1,5 @@
 # Zander
-Some simple c# to make f# code easier to digest from c#
+Trying out mix of c# and f#
+
+In order to bridge use [FSharpx.Extras](https://github.com/fsprojects/FSharpx.Extras/tree/master/src/FSharpx.Extras)
+
